@@ -1,0 +1,4 @@
+interface:
+  display_name: "참여형 광고 등록"
+  short_description: "카카오모먼트 캠페인·광고그룹과 비즈니스폼+ 연결 소재 등록"
+  default_prompt: "$kakao-engagement-ads 참여형 광고 캠페인·광고그룹과 비즈니스폼+ 연결 소재를 등록해줘."
